@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/saurav266/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
+| [2104-sum-of-subarray-ranges](https://github.com/saurav266/leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
 ## Binary Search
 |  |
 | ------- |
@@ -31,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/saurav266/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
+## Stack
+|  |
+| ------- |
+| [2104-sum-of-subarray-ranges](https://github.com/saurav266/leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2104-sum-of-subarray-ranges](https://github.com/saurav266/leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
