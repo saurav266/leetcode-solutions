@@ -1,20 +1,63 @@
 class Solution {
-    public int findCheapestPrice(int n, int[][] flights, int src, int dst, int k) {
-        int[] dist = new int[n];
-        Arrays.fill(dist, Integer.MAX_VALUE);
-        dist[src] = 0;
+    public class Pair {
+        int node;
+        int cost;
+        Pair(int node, int cost) {
+            this.node = node;
+            this.cost = cost;
+        }
+    }
 
-        for (int i = 0; i <= k; i++) {
-            int[] temp = dist.clone();
-            for (int[] f : flights) {
-                int u = f[0], v = f[1], cost = f[2];
-                if (dist[u] != Integer.MAX_VALUE && dist[u] + cost < temp[v]) {
-                    temp[v] = dist[u] + cost;
-                }
-            }
-            dist = temp;
+    public class Triplet implements Comparable<Triplet> {
+        int node;
+        int cost;
+        int stops;
+        Triplet(int node, int cost, int stops) {
+            this.node = node;
+            this.cost = cost;
+            this.stops = stops;
+        }
+        public int compareTo(Triplet t) {
+            if(this.stops==t.stops) return this.cost - t.cost;
+            return this.stops - t.stops;
+        }
+    }
+
+    public int findCheapestPrice(int n, int[][] flights, int src, int dst, int k) {
+        // adjacency list of Pair(node, cost)
+        List<List<Pair>> adj = new ArrayList<>();
+        for (int i = 0; i < n; i++) {
+            adj.add(new ArrayList<>());
         }
 
-        return dist[dst] == Integer.MAX_VALUE ? -1 : dist[dst];
+        for (int[] f : flights) {
+            int from = f[0], to = f[1], cost = f[2];
+            adj.get(from).add(new Pair(to, cost));
+        }
+
+        int[] ans = new int[n];
+        Arrays.fill(ans, Integer.MAX_VALUE);
+        ans[src] = 0;
+
+        PriorityQueue<Triplet> pq = new PriorityQueue<>();
+        pq.add(new Triplet(src, 0, 0));
+
+        while (!pq.isEmpty()) {
+            Triplet top = pq.poll();
+            int node = top.node, cost = top.cost, steps = top.stops;
+
+            
+            if (steps == k+1) continue;
+
+            for (Pair p : adj.get(node)) {
+                int totalCost = cost + p.cost;
+                if (totalCost < ans[p.node]) {
+                    ans[p.node] = totalCost;
+                    pq.add(new Triplet(p.node, totalCost, steps + 1));
+                }
+            }
+        }
+
+        return ans[dst] == Integer.MAX_VALUE ? -1 : ans[dst];
     }
 }
