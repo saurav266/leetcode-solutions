@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/saurav266/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/saurav266/leetcode-solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Graph Theory
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [3699-number-of-zigzag-arrays-i](https://github.com/saurav266/leetcode-solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/saurav266/leetcode-solutions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Minimum Spanning Tree
 |  |
