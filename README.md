@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/saurav266/leetcode-solutions/tree/master/0322-coin-change) |
+| [1004-max-consecutive-ones-iii](https://github.com/saurav266/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1584-min-cost-to-connect-all-points](https://github.com/saurav266/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/saurav266/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1833-maximum-ice-cream-bars](https://github.com/saurav266/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/saurav266/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1631-path-with-minimum-effort](https://github.com/saurav266/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/saurav266/leetcode-solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/saurav266/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/saurav266/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/saurav266/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/saurav266/leetcode-solutions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Enumeration
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/saurav266/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/saurav266/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/saurav266/leetcode-solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/saurav266/leetcode-solutions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
