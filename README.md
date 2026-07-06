@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/saurav266/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [1631-path-with-minimum-effort](https://github.com/saurav266/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/saurav266/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2608-shortest-cycle-in-a-graph](https://github.com/saurav266/leetcode-solutions/tree/master/2608-shortest-cycle-in-a-graph) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/saurav266/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/saurav266/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/saurav266/leetcode-solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1584-min-cost-to-connect-all-points](https://github.com/saurav266/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/saurav266/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2608-shortest-cycle-in-a-graph](https://github.com/saurav266/leetcode-solutions/tree/master/2608-shortest-cycle-in-a-graph) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/saurav266/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/saurav266/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
