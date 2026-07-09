@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/saurav266/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0322-coin-change](https://github.com/saurav266/leetcode-solutions/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/saurav266/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/saurav266/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/saurav266/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/saurav266/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/saurav266/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Recursion
@@ -227,5 +229,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/saurav266/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/saurav266/leetcode-solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
