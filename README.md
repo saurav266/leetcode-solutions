@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2389-longest-subsequence-with-limited-sum](https://github.com/saurav266/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/saurav266/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/saurav266/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/saurav266/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/saurav266/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/saurav266/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/saurav266/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/saurav266/leetcode-solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/saurav266/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/saurav266/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/saurav266/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/saurav266/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 ## Depth-First Search
 |  |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/saurav266/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/saurav266/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/saurav266/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/saurav266/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/saurav266/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2608-shortest-cycle-in-a-graph](https://github.com/saurav266/leetcode-solutions/tree/master/2608-shortest-cycle-in-a-graph) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/saurav266/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/saurav266/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/saurav266/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
@@ -140,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/saurav266/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/saurav266/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/saurav266/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/saurav266/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/saurav266/leetcode-solutions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
