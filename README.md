@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/saurav266/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/saurav266/leetcode-solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/saurav266/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/saurav266/leetcode-solutions/tree/master/0213-house-robber-ii) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/saurav266/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/saurav266/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [1301-number-of-paths-with-max-score](https://github.com/saurav266/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1631-path-with-minimum-effort](https://github.com/saurav266/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/saurav266/leetcode-solutions/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/saurav266/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/saurav266/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/saurav266/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/saurav266/leetcode-solutions/tree/master/0213-house-robber-ii) |
