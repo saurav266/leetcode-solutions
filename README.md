@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/saurav266/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/saurav266/leetcode-solutions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/saurav266/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/saurav266/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/saurav266/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/saurav266/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1137-n-th-tribonacci-number](https://github.com/saurav266/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0516-longest-palindromic-subsequence](https://github.com/saurav266/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/saurav266/leetcode-solutions/tree/master/0520-detect-capital) |
 | [1143-longest-common-subsequence](https://github.com/saurav266/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/saurav266/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
