@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/saurav266/leetcode-solutions/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/saurav266/leetcode-solutions/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/saurav266/leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/saurav266/leetcode-solutions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Prefix Sum
 |  |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/saurav266/leetcode-solutions/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [2129-capitalize-the-title](https://github.com/saurav266/leetcode-solutions/tree/master/2129-capitalize-the-title) |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/saurav266/leetcode-solutions/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/saurav266/leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/saurav266/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3838-weighted-word-mapping](https://github.com/saurav266/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 ## Greedy
