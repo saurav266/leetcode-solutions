@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/saurav266/leetcode-solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/saurav266/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/saurav266/leetcode-solutions/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/saurav266/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/saurav266/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0283-move-zeroes](https://github.com/saurav266/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/saurav266/leetcode-solutions/tree/master/0322-coin-change) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/saurav266/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/saurav266/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1631-path-with-minimum-effort](https://github.com/saurav266/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/saurav266/leetcode-solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/saurav266/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/saurav266/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1004-max-consecutive-ones-iii](https://github.com/saurav266/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/saurav266/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/saurav266/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/saurav266/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/saurav266/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/saurav266/leetcode-solutions/tree/master/3699-number-of-zigzag-arrays-i) |
