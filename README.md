@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/saurav266/leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/saurav266/leetcode-solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/saurav266/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/saurav266/leetcode-solutions/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/saurav266/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/saurav266/leetcode-solutions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/saurav266/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/saurav266/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1004-max-consecutive-ones-iii](https://github.com/saurav266/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/saurav266/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/saurav266/leetcode-solutions/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/saurav266/leetcode-solutions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Enumeration
 |  |
@@ -352,8 +354,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/saurav266/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/saurav266/leetcode-solutions/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/saurav266/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/saurav266/leetcode-solutions/tree/master/2444-count-subarrays-with-fixed-bounds) |
 <!---LeetCode Topics End-->
