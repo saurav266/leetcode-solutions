@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/saurav266/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/saurav266/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/saurav266/leetcode-solutions/tree/master/0494-target-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/saurav266/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0746-min-cost-climbing-stairs](https://github.com/saurav266/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1004-max-consecutive-ones-iii](https://github.com/saurav266/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/saurav266/leetcode-solutions/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/saurav266/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/saurav266/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/saurav266/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/saurav266/leetcode-solutions/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1248-count-number-of-nice-subarrays](https://github.com/saurav266/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/saurav266/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/saurav266/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/saurav266/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/saurav266/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/saurav266/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/saurav266/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
