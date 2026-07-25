@@ -11,8 +11,8 @@ class Solution {
             long target=nums[j];
 
             currSum +=nums[j];
-
-            if((j-i+1)* target-currSum >k){
+            long windoSum=(j-i+1)* target;
+            if(windoSum-currSum >k){
                 currSum -=nums[i];
                 i++;
             }
