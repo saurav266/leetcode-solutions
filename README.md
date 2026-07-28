@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/saurav266/leetcode-solutions/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/saurav266/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/saurav266/leetcode-solutions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/saurav266/leetcode-solutions/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/saurav266/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/saurav266/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/saurav266/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-k-radius-subarray-averages](https://github.com/saurav266/leetcode-solutions/tree/master/2090-k-radius-subarray-averages) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/saurav266/leetcode-solutions/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2953-count-complete-substrings](https://github.com/saurav266/leetcode-solutions/tree/master/2953-count-complete-substrings) |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/saurav266/leetcode-solutions/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/saurav266/leetcode-solutions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Enumeration
 |  |
