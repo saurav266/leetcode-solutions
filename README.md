@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/saurav266/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/saurav266/leetcode-solutions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/saurav266/leetcode-solutions/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/saurav266/leetcode-solutions/tree/master/3171-find-subarray-with-bitwise-or-closest-to-k) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/saurav266/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/saurav266/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/saurav266/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/saurav266/leetcode-solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/saurav266/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/saurav266/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/saurav266/leetcode-solutions/tree/master/3171-find-subarray-with-bitwise-or-closest-to-k) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/saurav266/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/saurav266/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/saurav266/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/saurav266/leetcode-solutions/tree/master/3171-find-subarray-with-bitwise-or-closest-to-k) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/saurav266/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/saurav266/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/saurav266/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -443,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/saurav266/leetcode-solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/saurav266/leetcode-solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/saurav266/leetcode-solutions/tree/master/0231-power-of-two) |
+| [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/saurav266/leetcode-solutions/tree/master/3171-find-subarray-with-bitwise-or-closest-to-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/saurav266/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/saurav266/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Database
