@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/saurav266/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/saurav266/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2953-count-complete-substrings](https://github.com/saurav266/leetcode-solutions/tree/master/2953-count-complete-substrings) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/saurav266/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/saurav266/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/saurav266/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/saurav266/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/saurav266/leetcode-solutions/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [2953-count-complete-substrings](https://github.com/saurav266/leetcode-solutions/tree/master/2953-count-complete-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/saurav266/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/saurav266/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/saurav266/leetcode-solutions/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/saurav266/leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/saurav266/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/saurav266/leetcode-solutions/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/saurav266/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/saurav266/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/saurav266/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/saurav266/leetcode-solutions/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Sorting
 |  |
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/saurav266/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/saurav266/leetcode-solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/saurav266/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/saurav266/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/saurav266/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/saurav266/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/saurav266/leetcode-solutions/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
@@ -353,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/saurav266/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1833-maximum-ice-cream-bars](https://github.com/saurav266/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/saurav266/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/saurav266/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/saurav266/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/saurav266/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
