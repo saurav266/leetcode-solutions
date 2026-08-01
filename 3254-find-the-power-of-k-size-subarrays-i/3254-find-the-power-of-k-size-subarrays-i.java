@@ -3,32 +3,26 @@ class Solution {
         int n= nums.length;
         int[] ans= new int[n-k+1];
         Arrays.fill(ans,-1);
-        int count=1;
-        for(int i=1;i<k;i++){
-            if(nums[i]==nums[i-1]+1){
-                count++;
+        Deque<Integer> dq= new LinkedList<>();
+        int i=0;
+        for(int j=0;j<n;j++){
+            if(dq.size()==k){
+                dq.pollFirst();
             }
-            else{
-                count=1;
+
+            if(!dq.isEmpty() && dq.peekLast()!=nums[j]-1){
+                dq.clear();
             }
-        }
-        if(count==k){
-            ans[0]=nums[k-1];
-        }
-        int i=1;
-        int j=k;
-        while(j<n){
-            if(nums[j]==nums[j-1]+1){
-                count++;
+
+            dq.offerLast(nums[j]);
+            if(j>=k-1){
+                if(dq.size()==k){
+                    ans[i++]=dq.peekLast();
+                }
+                else{
+                    i++;
+                }
             }
-            else{
-                count=1;
-            }
-            if(count>=k){
-                ans[i]=nums[j];
-            }
-            i++;
-            j++;
         }
         return ans;
     }
