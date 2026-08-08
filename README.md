@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/saurav266/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0746-min-cost-climbing-stairs](https://github.com/saurav266/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/saurav266/leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0875-koko-eating-bananas](https://github.com/saurav266/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0930-binary-subarrays-with-sum](https://github.com/saurav266/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/saurav266/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/saurav266/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/saurav266/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/saurav266/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/saurav266/leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0875-koko-eating-bananas](https://github.com/saurav266/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/saurav266/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/saurav266/leetcode-solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1539-kth-missing-positive-number](https://github.com/saurav266/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
