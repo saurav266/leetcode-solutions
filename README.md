@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1208-get-equal-substrings-within-budget](https://github.com/saurav266/leetcode-solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1539-kth-missing-positive-number](https://github.com/saurav266/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [1631-path-with-minimum-effort](https://github.com/saurav266/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/saurav266/leetcode-solutions/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/saurav266/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/saurav266/leetcode-solutions/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2187-minimum-time-to-complete-trips](https://github.com/saurav266/leetcode-solutions/tree/master/2187-minimum-time-to-complete-trips) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/saurav266/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/saurav266/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/saurav266/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/saurav266/leetcode-solutions/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/saurav266/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/saurav266/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/saurav266/leetcode-solutions/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/saurav266/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/saurav266/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1406-stone-game-iii](https://github.com/saurav266/leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/saurav266/leetcode-solutions/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/saurav266/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/saurav266/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/saurav266/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
