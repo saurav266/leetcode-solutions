@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2187-minimum-time-to-complete-trips](https://github.com/saurav266/leetcode-solutions/tree/master/2187-minimum-time-to-complete-trips) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/saurav266/leetcode-solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/saurav266/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2439-minimize-maximum-of-array](https://github.com/saurav266/leetcode-solutions/tree/master/2439-minimize-maximum-of-array) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/saurav266/leetcode-solutions/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/saurav266/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/saurav266/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2187-minimum-time-to-complete-trips](https://github.com/saurav266/leetcode-solutions/tree/master/2187-minimum-time-to-complete-trips) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/saurav266/leetcode-solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/saurav266/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2439-minimize-maximum-of-array](https://github.com/saurav266/leetcode-solutions/tree/master/2439-minimize-maximum-of-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/saurav266/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/saurav266/leetcode-solutions/tree/master/3171-find-subarray-with-bitwise-or-closest-to-k) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/saurav266/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/saurav266/leetcode-solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1406-stone-game-iii](https://github.com/saurav266/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/saurav266/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2439-minimize-maximum-of-array](https://github.com/saurav266/leetcode-solutions/tree/master/2439-minimize-maximum-of-array) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/saurav266/leetcode-solutions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/saurav266/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/saurav266/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/saurav266/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/saurav266/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/saurav266/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2439-minimize-maximum-of-array](https://github.com/saurav266/leetcode-solutions/tree/master/2439-minimize-maximum-of-array) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/saurav266/leetcode-solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/saurav266/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/saurav266/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -391,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/saurav266/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/saurav266/leetcode-solutions/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/saurav266/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2439-minimize-maximum-of-array](https://github.com/saurav266/leetcode-solutions/tree/master/2439-minimize-maximum-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/saurav266/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/saurav266/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/saurav266/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
