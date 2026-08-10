@@ -1,35 +1,38 @@
 class Solution {
-    public long minimumTime(int[] time, int totalTrips) {
-        long left = 1;
-        long right = (long) totalTrips * getMin(time); // upper bound
-        long ans = right;
+    public boolean canTrip(int[] time, int totalTrips, long target){
+        long trip=0;
 
-        while (left <= right) {
-            long mid = left + (right - left) / 2;
-            if (canComplete(time, mid, totalTrips)) {
-                ans = mid;
-                right = mid - 1; // try smaller time
-            } else {
-                left = mid + 1; // need more time
-            }
+        for(int t: time){
+            trip +=target/t;
+
+            if(trip>=totalTrips) return true;
         }
-        return ans;
+        return trip >= totalTrips;
     }
-
-    private boolean canComplete(int[] time, long mid, int totalTrips) {
-        long trips = 0;
-        for (int t : time) {
-            trips += mid / t;
-            if (trips >= totalTrips) return true; // early exit
-        }
-        return trips >= totalTrips;
-    }
-
     private int getMin(int[] time) {
         int min = Integer.MAX_VALUE;
         for (int t : time) {
             min = Math.min(min, t);
         }
         return min;
+    }
+    public long minimumTime(int[] time, int totalTrips) {
+        int n=time.length;
+        long left=1;
+        long right=(long)totalTrips * getMin(time);
+        long res=0;
+
+        while(left<=right){
+            long mid = left + (right-left)/2;
+
+            if(canTrip(time,totalTrips,mid)){
+                res= mid;
+                right =mid-1;
+            }
+            else{
+                left=mid+1;
+            }
+        }
+        return res;
     }
 }
