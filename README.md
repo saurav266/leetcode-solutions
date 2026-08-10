@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/saurav266/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/saurav266/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/saurav266/leetcode-solutions/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/saurav266/leetcode-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2090-k-radius-subarray-averages](https://github.com/saurav266/leetcode-solutions/tree/master/2090-k-radius-subarray-averages) |
 | [2104-sum-of-subarray-ranges](https://github.com/saurav266/leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/saurav266/leetcode-solutions/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/saurav266/leetcode-solutions/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/saurav266/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/saurav266/leetcode-solutions/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/saurav266/leetcode-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2187-minimum-time-to-complete-trips](https://github.com/saurav266/leetcode-solutions/tree/master/2187-minimum-time-to-complete-trips) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/saurav266/leetcode-solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/saurav266/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/saurav266/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/saurav266/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [1631-path-with-minimum-effort](https://github.com/saurav266/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/saurav266/leetcode-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1971-find-if-path-exists-in-graph](https://github.com/saurav266/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/saurav266/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/saurav266/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/saurav266/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [1631-path-with-minimum-effort](https://github.com/saurav266/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/saurav266/leetcode-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1971-find-if-path-exists-in-graph](https://github.com/saurav266/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/saurav266/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2608-shortest-cycle-in-a-graph](https://github.com/saurav266/leetcode-solutions/tree/master/2608-shortest-cycle-in-a-graph) |
@@ -162,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/saurav266/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [1584-min-cost-to-connect-all-points](https://github.com/saurav266/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/saurav266/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/saurav266/leetcode-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1971-find-if-path-exists-in-graph](https://github.com/saurav266/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/saurav266/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/saurav266/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -192,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/saurav266/leetcode-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1301-number-of-paths-with-max-score](https://github.com/saurav266/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1631-path-with-minimum-effort](https://github.com/saurav266/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/saurav266/leetcode-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/saurav266/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/saurav266/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Stack
