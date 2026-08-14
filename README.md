@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/saurav266/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/saurav266/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0746-min-cost-climbing-stairs](https://github.com/saurav266/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0826-most-profit-assigning-work](https://github.com/saurav266/leetcode-solutions/tree/master/0826-most-profit-assigning-work) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/saurav266/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/saurav266/leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/saurav266/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/saurav266/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/saurav266/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/saurav266/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0826-most-profit-assigning-work](https://github.com/saurav266/leetcode-solutions/tree/master/0826-most-profit-assigning-work) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/saurav266/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/saurav266/leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/saurav266/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/saurav266/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/saurav266/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0826-most-profit-assigning-work](https://github.com/saurav266/leetcode-solutions/tree/master/0826-most-profit-assigning-work) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/saurav266/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/saurav266/leetcode-solutions/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/saurav266/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
@@ -443,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/saurav266/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0826-most-profit-assigning-work](https://github.com/saurav266/leetcode-solutions/tree/master/0826-most-profit-assigning-work) |
 | [1288-remove-covered-intervals](https://github.com/saurav266/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saurav266/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/saurav266/leetcode-solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -486,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/saurav266/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0283-move-zeroes](https://github.com/saurav266/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/saurav266/leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [0826-most-profit-assigning-work](https://github.com/saurav266/leetcode-solutions/tree/master/0826-most-profit-assigning-work) |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/saurav266/leetcode-solutions/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/saurav266/leetcode-solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/saurav266/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
