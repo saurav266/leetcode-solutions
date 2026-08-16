@@ -1,23 +1,53 @@
 class Solution {
+    public class Pair implements Comparable<Pair>{
+        int node;
+        int time;
+        Pair(int node,int time){
+            this.node =node;
+            this.time=time;
+        }
+        public int compareTo(Pair p){
+            if(this.time==p.time) return this.node-p.node;
+            return this.time-p.time;
+        }
+    }
     public int networkDelayTime(int[][] times, int n, int k) {
-        int[] dist= new int[n+1];
-        Arrays.fill(dist,Integer.MAX_VALUE);
-        dist[k]=0;
-        for(int i=1;i<=n;i++){
-            for(int j=0;j<times.length;j++){
-                int u= times[j][0];
-                int v= times[j][1];
-                int wt= times[j][2];
+        List<List<Pair>> adj= new ArrayList<>();
+        for(int i=0;i<=n;i++){
+            adj.add(new ArrayList<Pair>());
+        }
 
-                if(dist[u]!=Integer.MAX_VALUE && dist[u]+wt <dist[v]){
-                    dist[v]=dist[u]+wt;
+        for(int i=0;i<times.length;i++){
+            int u=times[i][0];
+            int v= times[i][1];
+            int time=times[i][2]; 
+            adj.get(u).add(new Pair(v,time));
+        }
+        int[] ans = new int[n+1];
+        Arrays.fill(ans,Integer.MAX_VALUE);
+        ans[k]=0;
+
+        PriorityQueue<Pair> pq= new PriorityQueue<>();
+        pq.add(new Pair(k,0));
+
+        while(pq.size()>0){
+            Pair top= pq.remove();
+            int node =top.node;
+            int time=top.time;
+            if(top.time> ans[node]) continue;
+            for(Pair p:adj.get(node)){
+                int totaltime=top.time+ p.time;
+                if(totaltime<ans[p.node]){
+                    ans[p.node]=totaltime;
+                    pq.add(new Pair(p.node,totaltime));
                 }
             }
         }
-        int max=0;
+
+        int max=-1;
         for(int i=1;i<=n;i++){
-            if(dist[i]==Integer.MAX_VALUE) return -1;
-            max= Math.max(max,dist[i]);
+            if(ans[i]==Integer.MAX_VALUE) return -1;
+            max= Math.max(max,ans[i]);
         }
         return max;
     }
