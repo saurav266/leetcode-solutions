@@ -700,4 +700,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1095-find-in-mountain-array](https://github.com/saurav266/leetcode-solutions/tree/master/1095-find-in-mountain-array) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/saurav266/leetcode-solutions/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
