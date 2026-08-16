@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/saurav266/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/saurav266/leetcode-solutions/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/saurav266/leetcode-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
+| [2029-stone-game-ix](https://github.com/saurav266/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/saurav266/leetcode-solutions/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2090-k-radius-subarray-averages](https://github.com/saurav266/leetcode-solutions/tree/master/2090-k-radius-subarray-averages) |
 | [2104-sum-of-subarray-ranges](https://github.com/saurav266/leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/saurav266/leetcode-solutions/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/saurav266/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/saurav266/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2029-stone-game-ix](https://github.com/saurav266/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/saurav266/leetcode-solutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/saurav266/leetcode-solutions/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/saurav266/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/saurav266/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1833-maximum-ice-cream-bars](https://github.com/saurav266/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
+| [2029-stone-game-ix](https://github.com/saurav266/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/saurav266/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/saurav266/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/saurav266/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -554,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/saurav266/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/saurav266/leetcode-solutions/tree/master/1510-stone-game-iv) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/saurav266/leetcode-solutions/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
+| [2029-stone-game-ix](https://github.com/saurav266/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/saurav266/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/saurav266/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/saurav266/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -656,16 +660,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1406-stone-game-iii](https://github.com/saurav266/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/saurav266/leetcode-solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/saurav266/leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/saurav266/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/saurav266/leetcode-solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/saurav266/leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/saurav266/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/saurav266/leetcode-solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/saurav266/leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -692,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/saurav266/leetcode-solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/saurav266/leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
