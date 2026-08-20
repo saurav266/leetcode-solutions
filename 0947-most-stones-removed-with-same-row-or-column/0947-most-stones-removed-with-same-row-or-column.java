@@ -1,5 +1,5 @@
 class Solution {
-    public void dfs(int[][] stones,boolean[] vis, int idx){
+    public void dfs(int[][] stones, boolean[] vis, int idx){
         vis[idx]=true;
         for(int j=0;j<stones.length;j++){
             if(!vis[j]){
