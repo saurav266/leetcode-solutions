@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/saurav266/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/saurav266/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/saurav266/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0797-all-paths-from-source-to-target](https://github.com/saurav266/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/saurav266/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/saurav266/leetcode-solutions/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/saurav266/leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/saurav266/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/saurav266/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/saurav266/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0797-all-paths-from-source-to-target](https://github.com/saurav266/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/saurav266/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/saurav266/leetcode-solutions/tree/master/0886-possible-bipartition) |
 | [1631-path-with-minimum-effort](https://github.com/saurav266/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/saurav266/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/saurav266/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/saurav266/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0797-all-paths-from-source-to-target](https://github.com/saurav266/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/saurav266/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/saurav266/leetcode-solutions/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/saurav266/leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -633,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/saurav266/leetcode-solutions/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/saurav266/leetcode-solutions/tree/master/0494-target-sum) |
+| [0797-all-paths-from-source-to-target](https://github.com/saurav266/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -748,4 +752,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0886-possible-bipartition](https://github.com/saurav266/leetcode-solutions/tree/master/0886-possible-bipartition) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/saurav266/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
