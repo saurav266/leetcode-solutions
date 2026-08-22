@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-possible-bipartition](https://github.com/saurav266/leetcode-solutions/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/saurav266/leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/saurav266/leetcode-solutions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/saurav266/leetcode-solutions/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1631-path-with-minimum-effort](https://github.com/saurav266/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/saurav266/leetcode-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1971-find-if-path-exists-in-graph](https://github.com/saurav266/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/saurav266/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/saurav266/leetcode-solutions/tree/master/0886-possible-bipartition) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/saurav266/leetcode-solutions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/saurav266/leetcode-solutions/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1631-path-with-minimum-effort](https://github.com/saurav266/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/saurav266/leetcode-solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/saurav266/leetcode-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/saurav266/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/saurav266/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/saurav266/leetcode-solutions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/saurav266/leetcode-solutions/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/saurav266/leetcode-solutions/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/saurav266/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2953-count-complete-substrings](https://github.com/saurav266/leetcode-solutions/tree/master/2953-count-complete-substrings) |
@@ -523,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/saurav266/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/saurav266/leetcode-solutions/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1833-maximum-ice-cream-bars](https://github.com/saurav266/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2029-stone-game-ix](https://github.com/saurav266/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/saurav266/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -621,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/saurav266/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0337-house-robber-iii](https://github.com/saurav266/leetcode-solutions/tree/master/0337-house-robber-iii) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/saurav266/leetcode-solutions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/saurav266/leetcode-solutions/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 ## Binary Tree
 |  |
 | ------- |
@@ -772,4 +777,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/saurav266/leetcode-solutions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/saurav266/leetcode-solutions/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 <!---LeetCode Topics End-->
