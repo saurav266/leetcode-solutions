@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/saurav266/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/saurav266/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/saurav266/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/saurav266/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/saurav266/leetcode-solutions/tree/master/0337-house-robber-iii) |
 | [0547-number-of-provinces](https://github.com/saurav266/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/saurav266/leetcode-solutions/tree/master/0743-network-delay-time) |
@@ -655,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/saurav266/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/saurav266/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/saurav266/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/saurav266/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/saurav266/leetcode-solutions/tree/master/0337-house-robber-iii) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/saurav266/leetcode-solutions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/saurav266/leetcode-solutions/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
@@ -666,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/saurav266/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/saurav266/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/saurav266/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/saurav266/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/saurav266/leetcode-solutions/tree/master/0337-house-robber-iii) |
 ## Combinatorics
 |  |
@@ -815,4 +818,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/saurav266/leetcode-solutions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/saurav266/leetcode-solutions/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/saurav266/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/saurav266/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
