@@ -16,24 +16,23 @@
 class Solution {
     public int level(TreeNode root){
         if(root==null) return 0;
+
         return 1 + Math.max(level(root.left),level(root.right));
     }
+    public void preorder(TreeNode root,int level, List<Integer> ans){
+        if(root==null) return;
+
+        ans.set(level,root.val);
+        preorder(root.left,level+1,ans);
+        preorder(root.right,level+1,ans);
+    }
     public List<Integer> rightSideView(TreeNode root) {
-        int lvl=level(root);
+        int n= level(root);
         List<Integer> ans= new ArrayList<>();
-        if (root == null) return ans;
-        Queue<TreeNode> q= new LinkedList<>();
-        q.add(root);
-        while(!q.isEmpty()){
-            int n=q.size();
-            TreeNode node=null;
-            for (int i = 0; i < n; i++) {
-                node = q.poll(); // ✅ use poll()
-                if (node.left != null) q.add(node.left);
-                if (node.right != null) q.add(node.right);
-            }
-            ans.add(node.val);
+        for(int i=1;i<=n;i++){
+            ans.add(0);
         }
+        preorder(root,0,ans);
         return ans;
     }
 }
