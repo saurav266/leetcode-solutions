@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/saurav266/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/saurav266/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/saurav266/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
+| [0814-binary-tree-pruning](https://github.com/saurav266/leetcode-solutions/tree/master/0814-binary-tree-pruning) |
 | [0841-keys-and-rooms](https://github.com/saurav266/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/saurav266/leetcode-solutions/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/saurav266/leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -675,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/saurav266/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/saurav266/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/saurav266/leetcode-solutions/tree/master/0337-house-robber-iii) |
+| [0814-binary-tree-pruning](https://github.com/saurav266/leetcode-solutions/tree/master/0814-binary-tree-pruning) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/saurav266/leetcode-solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/saurav266/leetcode-solutions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/saurav266/leetcode-solutions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
@@ -693,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/saurav266/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/saurav266/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/saurav266/leetcode-solutions/tree/master/0337-house-robber-iii) |
+| [0814-binary-tree-pruning](https://github.com/saurav266/leetcode-solutions/tree/master/0814-binary-tree-pruning) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/saurav266/leetcode-solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/saurav266/leetcode-solutions/tree/master/1110-delete-nodes-and-return-forest) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/saurav266/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
