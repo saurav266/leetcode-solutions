@@ -14,10 +14,10 @@
  * }
  */
 class Solution {
-    public TreeNode helper(TreeNode root,List<TreeNode> ans,Set<Integer> st){
-        if(root== null) return null;
-        root.left=helper(root.left,ans,st);
-        root.right=helper(root.right,ans,st);
+    public TreeNode helper(TreeNode root,Set<Integer> st,List<TreeNode> ans){
+        if(root==null) return null;
+        root.left=helper(root.left,st,ans);
+        root.right=helper(root.right,st,ans);
 
         if(st.contains(root.val)){
             if(root.left!=null){
@@ -35,10 +35,10 @@ class Solution {
     public List<TreeNode> delNodes(TreeNode root, int[] to_delete) {
         List<TreeNode> ans= new ArrayList<>();
         Set<Integer> st= new HashSet<>();
-        for(int d:to_delete ){
+        for(int d: to_delete){
             st.add(d);
         }
-        helper(root,ans,st);
+        helper(root,st,ans);
         if(!st.contains(root.val)){
             ans.add(root);
         }
