@@ -19,11 +19,13 @@ class Solution {
         if(r1==null && r2!=null) return false;
         if(r1!=null && r2==null) return false;
         if(r1.val !=r2.val) return false;
-        boolean left=check(r1.left,r2.right);
+        boolean left=check(r1.left, r2.right);
         boolean right=check(r1.right,r2.left);
-        return( left && right);
+
+        return (left&& right);
     }
     public boolean isSymmetric(TreeNode root) {
         return check(root.left, root.right);
+
     }
 }
