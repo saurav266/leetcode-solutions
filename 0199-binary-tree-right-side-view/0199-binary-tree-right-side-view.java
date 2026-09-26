@@ -16,23 +16,23 @@
 class Solution {
     public int level(TreeNode root){
         if(root==null) return 0;
-
-        return 1 + Math.max(level(root.left),level(root.right));
+        return 1 + Math.max(level(root.left), level(root.right));
     }
-    public void preorder(TreeNode root,int level, List<Integer> ans){
+    public void helper(TreeNode root,int idx, List<Integer> ans){
         if(root==null) return;
+        ans.set(idx,root.val);
+        helper(root.left,idx+1,ans);
+        helper(root.right,idx+1,ans);
 
-        ans.set(level,root.val);
-        preorder(root.left,level+1,ans);
-        preorder(root.right,level+1,ans);
+
     }
     public List<Integer> rightSideView(TreeNode root) {
-        int n= level(root);
         List<Integer> ans= new ArrayList<>();
+        int n=level(root);
         for(int i=1;i<=n;i++){
             ans.add(0);
         }
-        preorder(root,0,ans);
+        helper(root,0,ans);
         return ans;
     }
 }
