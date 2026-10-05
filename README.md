@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/saurav266/leetcode-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1288-remove-covered-intervals](https://github.com/saurav266/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/saurav266/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
+| [1329-sort-the-matrix-diagonally](https://github.com/saurav266/leetcode-solutions/tree/master/1329-sort-the-matrix-diagonally) |
 | [1386-cinema-seat-allocation](https://github.com/saurav266/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/saurav266/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/saurav266/leetcode-solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/saurav266/leetcode-solutions/tree/master/0835-image-overlap) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/saurav266/leetcode-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1301-number-of-paths-with-max-score](https://github.com/saurav266/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
+| [1329-sort-the-matrix-diagonally](https://github.com/saurav266/leetcode-solutions/tree/master/1329-sort-the-matrix-diagonally) |
 | [1631-path-with-minimum-effort](https://github.com/saurav266/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/saurav266/leetcode-solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/saurav266/leetcode-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -599,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-most-profit-assigning-work](https://github.com/saurav266/leetcode-solutions/tree/master/0826-most-profit-assigning-work) |
 | [1096-brace-expansion-ii](https://github.com/saurav266/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/saurav266/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
+| [1329-sort-the-matrix-diagonally](https://github.com/saurav266/leetcode-solutions/tree/master/1329-sort-the-matrix-diagonally) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saurav266/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/saurav266/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1552-magnetic-force-between-two-balls](https://github.com/saurav266/leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
