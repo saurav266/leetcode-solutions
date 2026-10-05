@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/saurav266/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/saurav266/leetcode-solutions/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/saurav266/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/saurav266/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/saurav266/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/saurav266/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/saurav266/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/saurav266/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/saurav266/leetcode-solutions/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/saurav266/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0498-diagonal-traverse](https://github.com/saurav266/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0835-image-overlap](https://github.com/saurav266/leetcode-solutions/tree/master/0835-image-overlap) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/saurav266/leetcode-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1301-number-of-paths-with-max-score](https://github.com/saurav266/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
@@ -644,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/saurav266/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/saurav266/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
+| [0498-diagonal-traverse](https://github.com/saurav266/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/saurav266/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/saurav266/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/saurav266/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
